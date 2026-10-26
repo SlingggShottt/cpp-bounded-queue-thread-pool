@@ -1,0 +1,5 @@
+# ignore executable files 
+*.out 
+
+# personal notes
+notes.md 
